@@ -2,7 +2,8 @@
 <h2>Project Description </h2>
 <p><strong>The goal is to teach a Convolutional Neural Network (CNN) to drive a car in a simulator provided by Udacity</strong></p>
 
-<iframe src='https://gfycat.com/ifr/PertinentSpottedBufflehead' frameborder='0' scrolling='no' allowfullscreen width='640' height='524'></iframe>
+<img alt="GIF" src="./test_demo.gif" />
+
 
 <h3>Steps to Run</h3>
 
