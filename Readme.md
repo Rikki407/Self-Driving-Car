@@ -2,7 +2,7 @@
 <h2>Project Description </h2>
 <p><strong>The goal is to teach a Convolutional Neural Network (CNN) to drive a car in a simulator provided by Udacity</strong></p>
 
-<img alt="GIF" src="./test_demo.gif" />
+<img alt="GIF" src="https://github.com/Rikki407/gifs/blob/main/selfdrivingcar.gif" width="100%"/>
 
 
 <h3>Steps to Run</h3>
